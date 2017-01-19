@@ -1,6 +1,5 @@
-# forever-monitor [![Build Status](https://secure.travis-ci.org/foreverjs/forever-monitor.png)](http://travis-ci.org/foreverjs/forever-monitor)
-
-The core monitoring functionality of forever without the CLI
+The core monitoring functionality of forever without the CLI + Email alert on stderr
+Full credit goes to actual owners and contributor of forever.js for this awesome tool
 
 ## Usage
 You can also use forever from inside your own node.js code.
