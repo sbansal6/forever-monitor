@@ -1,5 +1,5 @@
 {
-  "name": "forever-monitor",
+  "name": "forever-monitor-email",
   "description": "Core forever process monitor + email alert on stderr",
   "version": "1.7.1",
   "author": "Saurabh Bansal <sauraviit@gmail.com>",
